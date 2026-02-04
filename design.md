@@ -26,7 +26,7 @@
 
 ### 1.2 Brand Identity 
 - **Brand Name**: Atman (Sanskrit for "soul/self")
-- **Tagline**: "Your Personal Health Guardian"
+- **Tagline**: "Your Personal LifeStyle Guardian"
 - **Brand Values**: Trust, Personalization, Serenity, Empowerment
 - **Personality**: Caring, Intelligent, Grounded, 
 - **Aesthetic Shift**: "Premium Wellness Companion"
@@ -440,9 +440,9 @@
 }
 ```
 
-## 4. Screen Layouts (Elevated)
+## 4. Screen Layouts 
 
-### 4.1 Home Screen (Clean & Welcoming)
+### 4.1 Home Screen 
 
 ```
 ┌─────────────────────────────────┐
@@ -708,5 +708,6 @@
 2. Add micro-interactions
 3. Perfect dark mode
 4. Optimize performance
+
 
 This elevated design positions Atman as a premium wellness companion that Indian users will love to use and show off, moving far beyond the clinical medical app aesthetic to something truly special and engaging.
