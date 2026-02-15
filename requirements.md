@@ -118,7 +118,7 @@ To demonstrate technical feasibility within the hackathon timeframe, we are focu
 
 ### 6.1 Critical Risks
 - **Risk-01**: AI Hallucination: The AI might misidentify a safe ingredient as harmful
-  - **Mitigation**: Implement a "Confidence Score" threshold. If confidence is low, flag for human review. Display "Not Medical Advice" disclaimers
+- **Mitigation**: Implement a "Confidence Score" threshold (>80% for auto-verdict; below → human/community review queue). Every output includes prominent "Not Medical Advice – Consult a doctor for allergies/health concerns" disclaimer. Bedrock prompts include strict safety guardrails to minimize hallucination.
 - **Risk-02**: Missing Barcode Data: Indian local brands often lack centralized barcode data
   - **Mitigation**: Gamify the "Full Product Scan" to encourage users to build the database for us
 - **Risk-03**: Dynamic Ingredient Lists: Brands change formulas without changing barcodes
@@ -138,4 +138,8 @@ To demonstrate technical feasibility within the hackathon timeframe, we are focu
 - **SV-002**: Brand Reputation Defense: Filters out the "wrong" customers (e.g., Oily Skin users buying Dry Skin cream) to prevent unfair 1-star reviews based on incompatibility rather than product quality
 
 ### 8.2 The "Neutral Guardian" Advantage
+
 - **SV-003**: Unlike Blinkit/Zepto which are incentivized to sell, Atman is incentivized to protect, creating high user trust as an unbiased third-party intelligence layer
+
+
+Atman isn't just an app — it's a guardian that says "Yeh aapke body ke liye sahi hai" in a language millions understand, building trust where marketing hype often fails.
