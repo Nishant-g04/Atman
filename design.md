@@ -93,7 +93,7 @@
 --gray-900: #1A1917;  /* Primary text */
 ```
 
-/*All palettes tested for WCAG AA compliance (4.5:1 contrast for normal text, 3:1 for large) using tools like WebAIM Contrast Checker.*/
+All palettes tested for WCAG AA compliance (4.5:1 contrast for normal text, 3:1 for large) using tools like WebAIM Contrast Checker.
 
 ### 2.2 Typography (More Personality)
 
@@ -710,5 +710,7 @@
 2. Add micro-interactions
 3. Perfect dark mode
 4. Optimize performance
+   
 
 This design elevates Atman from a utility tool to a trusted daily companion — serene, intelligent, and truly made for Bharat.
+
