@@ -93,6 +93,8 @@
 --gray-900: #1A1917;  /* Primary text */
 ```
 
+/*All palettes tested for WCAG AA compliance (4.5:1 contrast for normal text, 3:1 for large) using tools like WebAIM Contrast Checker.*/
+
 ### 2.2 Typography (More Personality)
 
 #### Font Family (Friendly & Modern)
@@ -709,5 +711,4 @@
 3. Perfect dark mode
 4. Optimize performance
 
-
-This elevated design positions Atman as a premium wellness companion that Indian users will love to use and show off, moving far beyond the clinical medical app aesthetic to something truly special and engaging.
+This design elevates Atman from a utility tool to a trusted daily companion — serene, intelligent, and truly made for Bharat.
